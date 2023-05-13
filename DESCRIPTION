@@ -1,0 +1,14 @@
+Package: keyxpkg
+Type: Package
+Title: Yueqi's personal package
+Version: 0.1.0
+Author: Yueqi Xu
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Contains functions that Yueqi use often.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
