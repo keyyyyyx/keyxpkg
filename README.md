@@ -1,5 +1,5 @@
 # keyxpkg
-Yueqi's personal package
+Yueqi's personal package. Contains functions Yueqi find useful.
 
 ## Functions
 
